@@ -5,15 +5,17 @@
 
 ## Урок 6
 
-### 1. Разбор HW5.
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFb2FlR0NfRml5UWs">Разбор HW5</a>.
 
-### 2. Параметризация. Стирание типов.
+- <a href="Covariant return type">https://en.wikipedia.org/wiki/Covariant_return_type</a>
+
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFd0tfYl82QTB5WkU">Параметризация. Стирание типов</a>.
 - <a href="http://developer.alexanderklimov.ru/android/java/generic.php">Обобщения (Generic)</a>
 - <a href="http://www.quizful.net/post/java-generics-tutorial">Дженерики (Java, обучающая статья)</a>
 - <a href="http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html">Ограничения.</a>
 - <a href="http://stackoverflow.com/questions/4073359/understanding-java-generics-type-parameter-conventions">Understanding Java generics</a>
 
-### Работа с патчами:
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFMjZYWno2WlZzbEU">Работа с патчами</a>:
 - Обновите проект (Ctrl+T). Ваша ветка master должна быть в том же состоянии, как и <a href="https://github.com/JavaWebinar/webapp/commits/master">master нашего проекта</a>
 - Скачайте патчи по ссылкам ниже с Goodle Drive (можно в каталог проекта, но не добавляетй его в git)
 - В Projects на патче в контекстном меню выберите `Apply Patch...`
@@ -27,7 +29,7 @@
 - Закомитьте изменения и переходите к следующему патчу
 - После накатки всех патчей сделайте push
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbVFyc1N1OXZKSFE">Работа с файлами. Ввод/вывод.</a>
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbVFyc1N1OXZKSFE">Работа с файлами. Ввод/вывод.</a>
 > В проекте есть небольшие отличия от видео, например поле резюме `about` и исключение `ResumeStorageException` вместо `WebAppException`
 
 #### Патч <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFcV9kdFlqY0N2Q0E">1_MainFiles.patch</a>
