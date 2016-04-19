@@ -48,10 +48,3 @@
     Закончить реализацию DataStreamFileStorage (все методы и сохранение-чтение секций)
     Выделить из DataStreamFileStorage общий класс AbstractFileStorage
     Протестировать все полученные реализации.
-
-Optional:
-
-    Реализовать PathStorage через java.nio.file.Path.
-    Сделать возможным выбор меджу FileStorage и PathStorage для сериализации через DataStream.
-
-  - <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
