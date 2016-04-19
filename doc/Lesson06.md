@@ -44,7 +44,7 @@
 - Реализация FileStore (хранение в файлах).
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=4">Ввод-вывод.</a> Реализация Store используя DataInputStream/DataOutputStream.
 
-### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW5
+### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW6
     Закончить реализацию DataStreamFileStorage (все методы и сохранение-чтение секций)
     Выделить из DataStreamFileStorage общий класс AbstractFileStorage
     Протестировать все полученные реализации.
