@@ -5,7 +5,7 @@
 
 ## Урок 7
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="">Разбор HW6</a>.
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFeG1nNlc3YjVPbnM">Разбор HW6: реализация DataStreamFileStorage</a>.
 
 ### Path. Сериализация. Работа с JSON.
 - <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
