@@ -44,7 +44,9 @@
 
 ### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW8
     Сделать отображение резюме через JSP.
-    Установит PostgreSql: <a href="http://www.enterprisedb.com/products-services-training/pgdownload#windows">Download PostgreSQL</a>
+    Установит PostgreSql
+    
+- <a href="http://www.enterprisedb.com/products-services-training/pgdownload#windows">Download PostgreSQL</a>
 
 Optional
 
