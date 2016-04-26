@@ -5,7 +5,7 @@
 
 ## Урок 8
 
-### 1. Разбор HW7</a>.
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFU2wyVklHekozUEU">Разбор HW7</a>.
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFUGsxLXhkUVFvVk0">Потоки. Параллельное выполнение.</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27127">Потоки выполнения. Синхронизация.</a>
@@ -22,7 +22,7 @@
     - <a href="http://www.ibm.com/developerworks/ru/library/j-5things4/">java.util.concurrent. Часть 1</a>
     - <a href="http://www.ibm.com/developerworks/ru/library/j-5things5/">java.util.concurrent. Часть 2</a>
 
-### Веб-Контейнер Tomcat. Сервлеты. JSP. JSTL
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZFkzTGRfWUYxWmc">Веб-Контейнер Tomcat. Сервлеты. JSP.</a>
 - Tomcat. <a href="http://java-course.ru/student/book1/servlet/">Сервлеты.</a>
 - Добавление в проект Web Facet. web.xml. Постороение/cтруктура WAR.
 - Настройка и деплой в Tomcat. Tomcat manager.
@@ -30,12 +30,10 @@
 - Статические ресурсы
 - <a href="http://java-course.ru/student/book1/jsp/">JSP</a>. Отображение списка резюме. Просмотр, удаление резюме. Html.
 - <a href="http://stackoverflow.com/questions/6068891/difference-between-jsp-forward-and-redirect">Отличие Redirect от Forward</a>
-- Форматирование через <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>.
 - Литература:
     - <a href="http://devcolibri.com/4284">Как создать Servlet? Полное руководство.</a>
     - <a href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading">How do servlets work?</a>
     - <a href="http://www.intuit.ru/studies/courses/569/425/lecture/9683">Язык программирования Java и среда NetBeans: Введение в сетевое программирование</a>
-    - <a href="http://devcolibri.com/1250">JSTL для написания JSP страниц</a>
     - <a href="http://www.intuit.ru/studies/courses/1102/134/info">Основы работы с HTML</a>
     - <a href="http://ru.html.net/tutorials/html/">Учебник HTML</a>
     - <a href="http://www.techinfo.net.ru/docs/web/javawebdev.html">Технологии Java для разработки веб-приложений</a>
@@ -44,6 +42,7 @@
 
 ### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW8
     Сделать отображение резюме через JSP.
+    Реализовать удаление резюме.
     Установит PostgreSql
     
 - <a href="http://www.enterprisedb.com/products-services-training/pgdownload#windows">Download PostgreSQL</a>
