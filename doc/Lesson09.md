@@ -4,6 +4,7 @@
 ## Проект: https://github.com/JavaWebinar/webapp
 
 ## Урок 9
+- <a href="https://www.hscripts.com/tutorials/jsp/variables.php">Predefined Variables in JSP</a>
 
 ### JSTL
 - <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>
