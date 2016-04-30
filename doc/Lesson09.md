@@ -5,6 +5,7 @@
 
 ## Урок 9
 - <a href="https://www.hscripts.com/tutorials/jsp/variables.php">Predefined Variables in JSP</a>
+- <a href="http://stackoverflow.com/questions/4764405/how-to-use-relative-paths-without-including-the-context-root-name">How to use relative paths in JSP</a>
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWnQ1WnBzM0ZTWms">JSTL. Разбор HW8</a>
 - <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>
