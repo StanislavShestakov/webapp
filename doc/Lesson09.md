@@ -13,7 +13,7 @@
 - <a href="http://search.maven.org/#artifactdetails%7Cjstl%7Cjstl%7C1.2%7Cjar">Download form maven central</a>
 
 ### 2. HTTP POST. Редактирование.
-### 3. Реляционная СУБД. PostgreSQL. JDBC
+### 3. ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFdVBBRTgzRWc0a1U">Реляционная СУБД. PostgreSQL. JDBC</a>
 
 - <a href="http://habrahabr.ru/post/103021/">Реляционные базы</a>. SQL. Денормализация. PK, FK, Cascade
 - <a href="http://ru.wikipedia.org/wiki/Java_Database_Connectivity">JDBC</a>. <a href="http://www.developersbook.com/jdbc/interview-questions/jdbc-interview-questions-faqs.php">JDBC Architecture</a>.
