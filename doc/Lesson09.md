@@ -21,3 +21,13 @@
 - Ресурсы:
     - <a href="http://devcolibri.com/477">Работа с базами данных с помощью JDBC драйвера</a>
     - <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2">Обущающее видео по JDBC</a>
+
+### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW9
+- Запустить `SqlStorageTest`
+  - Тк. `SqlStorage` реализуем пока без секций, в `ResumeTestData` закомментарил секции.
+  - Креденшелы к DB задаются в `src\webapp.properties`
+  - Для работы с DB надо в проект и артефакты добавить нужный драйвер базы данных:
+    - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFdnVWWGJhenV4d0E">Oracle driver</a> или
+    - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFQ2RVNk92M3VKQTg">Postgres driver</a>
+
+- Доделать SqlStorage без секций.
