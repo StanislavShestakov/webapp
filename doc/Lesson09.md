@@ -31,3 +31,4 @@
     - <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFQ2RVNk92M3VKQTg">Postgres driver</a>
 
 - Доделать SqlStorage без секций.
+- Попробовать вынести общий код (`getConnection(), prepareStatement, catch (SQLException e)`) в класс SqlHelper.
